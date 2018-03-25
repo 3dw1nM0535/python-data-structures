@@ -26,7 +26,7 @@ print tuple4
 
 # NB
 # Tuples include all list operation such as
-# menbership
+# membership
 # repetition
 # concatenation and
 # iteration
