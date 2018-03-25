@@ -23,3 +23,10 @@ print "Deleting a whole tuple!!"
 del tuple4
 print "After deleting tuple4"
 print tuple4
+
+# NB
+# Tuples include all list operation such as
+# menbership
+# repetition
+# concatenation and
+# iteration
